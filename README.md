@@ -20,6 +20,9 @@ Set up [clickable](https://github.com/bhdouglass/clickable) and run `clickable` 
 
 A big thanks to Robert Ancell and everybody who contributed to Mines or other Minesweeper derivates for letting me rip off their work. Thanks to Brian Douglass for Clickable. Thanks to the original Creators of Ubuntu Touch, the Ubuntu SDK and the Ubuntu UI toolkit. Thank you to everybody who helps keeping [Ubuntu Touch](https://ubports.com) alive.
 
+## Updated
+20250827 Updated for Focal by Alaskalinuxuser
+
 ## License
 
 Copyright (C) 2015 Robert Ancell
